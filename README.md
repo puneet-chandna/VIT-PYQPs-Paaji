@@ -274,7 +274,7 @@ flowchart LR
     <td align="center">
       <h3>📚</h3>
       <b>Subjects Covered</b><br>
-      30+
+      40+
     </td>
     <td align="center">
       <h3>🎓</h3>

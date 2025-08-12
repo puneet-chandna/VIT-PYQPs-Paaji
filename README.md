@@ -269,7 +269,7 @@ flowchart LR
     <td align="center">
       <h3>👥</h3>
       <b>Contributors</b><br>
-      50+
+      3+
     </td>
     <td align="center">
       <h3>📚</h3>
@@ -279,7 +279,7 @@ flowchart LR
     <td align="center">
       <h3>🎓</h3>
       <b>Students Helped</b><br>
-      1000+
+      5+
     </td>
   </tr>
 </table>

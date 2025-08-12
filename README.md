@@ -63,7 +63,7 @@
       <p>Years of question papers<br>at your fingertips</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/sorting.png" width="75" height="75">
+      <img src="https://img.icons8.com/?size=100&id=114251&format=png&color=000000" width="75" height="75">
       <h4>🗂️ Smart Organization</h4>
       <p>Easy navigation with<br>systematic structure</p>
     </td>
@@ -89,38 +89,34 @@
 
 ```mermaid
 graph TD
-    A[📁 VIT-PYQPs-Paaji] --> B[📚 Subject Folders]
-    B --> C[📄 CAT Papers]
-    B --> D[📄 FAT Papers]
-    B --> E[📄 Lab Papers]
+    A[📁 VIT-PYQPs-Paaji] --> B[📁 All papers] -->C[📚 Subject Folder]
+    C --> D[📄 CAT Papers]
+    C --> E[📄 FAT Papers]
+    C --> F[📄 Lab Papers]
     
     style A fill:#ff6b6b,stroke:#fff,stroke-width:4px,color:#fff
     style B fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
     style D fill:#96ceb4,stroke:#fff,stroke-width:2px,color:#fff
     style E fill:#ffeaa7,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#FFB6C1 ,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
 <!-- Directory Structure -->
-<div align="center">
-  
 ```bash
-📂 VIT-PYQPs-Paaji/
-│
-├── 📘 Mathematics/
-│   ├── 📝 CAT-1_2023.pdf
-│   ├── 📝 CAT-2_2023.pdf
-│   └── 📝 FAT_2023.pdf
-│
-├── 📗 Physics/
-│   ├── 📝 CAT-1_2023.pdf
-│   └── 📝 FAT_2023.pdf
-│
-└── 📙 Chemistry/
-    └── 📝 All_Papers.pdf
+VIT-PYQPs-Paaji/
+├── All_Papers/
+│ ├── 🟦 Mathematics/
+│ │ ├── 📝 CAT-1_2023.pdf
+│ │ ├── 📝 CAT-2_2023.pdf
+│ │ └── 📝 FAT_2023.pdf
+│ ├── 🟩 Physics/
+│ │ ├── 📝 CAT-1_2023.pdf
+│ │ └── 📝 FAT_2023.pdf
+│ └── 🟧 Chemistry/
+│ └── 📝 All_Papers.pdf
 ```
 
-</div>
 
 <!-- How to Use Section -->
 <div align="center">

@@ -39,8 +39,8 @@
 <div align="center">
   
 ```diff
-@@           🎯 Your One-Stop Solution for VIT Chennai Exam Preparation           @@
-+ 📚 Comprehensive Collection of Previous Year Question Papers
+@@           🎯 Your One-Stop Solution for VIT Exam Preparation           @@
++ 📚 Comprehensive Collection of more than 1200 Previous Year Question Papers
 + 🎓 Organized by Subject and Exam Type
 + 🤝 Community-Driven and Open Source
 + 🆓 100% Free Access for All Students
@@ -264,17 +264,12 @@ flowchart LR
     <td align="center">
       <h3>📈</h3>
       <b>Papers Added</b><br>
-      500+
-    </td>
-    <td align="center">
-      <h3>👥</h3>
-      <b>Contributors</b><br>
-      3+
+      1220+
     </td>
     <td align="center">
       <h3>📚</h3>
       <b>Subjects Covered</b><br>
-      40+
+      140+
     </td>
     <td align="center">
       <h3>🎓</h3>

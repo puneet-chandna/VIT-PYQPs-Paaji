@@ -4,8 +4,12 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=VIT-PYQPs-Paaji&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Previous%20Year%20Question%20Papers%20Repository&descAlignY=51&descAlign=62" width="100%" />
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+the+Ultimate+PYQP+Collection+%F0%9F%8E%93;Created+by+Students%2C+For+Students+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&height=80&width=600&lines=Welcome+to+the+Ultimate+PYQP+Collection+%F0%9F%8E%93;Created+by+Students%2C+For+Students+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!-- Badges Section -->
 <p align="center">

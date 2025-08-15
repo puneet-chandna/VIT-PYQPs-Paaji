@@ -1,5 +1,3 @@
-# Contributing Guide
-
 ![Banner: Contributing Guide](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Contributing%20Guide&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 ## ✨ Ways to Contribute

@@ -163,6 +163,8 @@ VIT-PYQPs-Paaji/
 
 </div>
 
+New here? Please read the [Contributing Guide](CONTRIBUTING.md) to get started.
+
 <div align="center">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)

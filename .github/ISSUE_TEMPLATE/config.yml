@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Submit a PYQP (PDF)
+    url: https://github.com/puneet-chandna/VIT-PYQPs-Paaji/issues/new?template=pyqp_submission.yml
+    about: Use this to upload a PDF or provide a link to a PYQP so maintainers can add it.
+  - name: Ask a question
+    url: https://github.com/puneet-chandna/VIT-PYQPs-Paaji/discussions/new?category=q-a
+    about: Have a question about the repository? Start a discussion.

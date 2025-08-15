@@ -1,0 +1,98 @@
+name: "Submit a PYQP (PDF)"
+description: "Share a Previous Year Question Paper (PYQP) PDF or link so it can be added to the repository."
+title: "[PYQP] <Subject> - <ExamType> - <Year>"
+labels:
+  - pyqp-submission
+  - triage
+assignees:
+  - puneet-chandna
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping the community! Please attach the PDF directly to this issue (drag & drop), or provide a reliable link (Google Drive, OneDrive, etc.). Make sure there is no personal information.
+
+  - type: input
+    id: subject
+    attributes:
+      label: Subject name
+      description: Full subject name as it appears in your syllabus (e.g., "Database Management Systems").
+      placeholder: e.g., "Database Management Systems"
+    validations:
+      required: true
+
+  - type: input
+    id: course_code
+    attributes:
+      label: Course code (optional)
+      description: If known (e.g., BEEE101, CSE2003, MATH101, etc.)
+      placeholder: e.g., CSE2003
+    validations:
+      required: false
+
+  - type: dropdown
+    id: exam_type
+    attributes:
+      label: Exam type
+      options:
+        - CAT-1
+        - CAT-2
+        - FAT
+        - Lab
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year / Term
+      description: Year or term of the exam (e.g., 2023 or "Fall 2023").
+      placeholder: e.g., 2023
+    validations:
+      required: true
+
+  - type: input
+    id: campus
+    attributes:
+      label: Campus (optional)
+      placeholder: VIT Chennai
+      value: VIT Chennai
+    validations:
+      required: false
+
+  - type: textarea
+    id: pdf
+    attributes:
+      label: PDF upload or link(s)
+      description: |
+        - Prefer attaching the PDF directly (drag & drop into this issue).
+        - Alternatively provide a direct, public link (Google Drive/OneDrive/etc.).
+        - If multiple files, list all links.
+      placeholder: "Paste link(s) here or attach file(s) above."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      description: Please check all that apply.
+      options:
+        - label: I removed/redacted any personal information from the file.
+          required: true
+        - label: The file opens correctly and is readable (not corrupted, rotated properly, etc.).
+          required: true
+        - label: I followed the naming guideline Subject_ExamType_Year.pdf (or provided enough info to rename).
+          required: true
+        - label: I understand that copyrighted materials (e.g., paid content, solutions) must not be uploaded.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes (optional)
+      description: Any context that helps maintainers place the file in the correct folder.
+      placeholder: e.g., "This is the CAT-2 2022 paper from Prof. X's section."
+    validations:
+      required: false

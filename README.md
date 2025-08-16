@@ -208,9 +208,9 @@ flowchart LR
 ## 📊 **Repository Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=puneet-chandna&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puneet-chandna&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puneet-chandna&theme=radical" width="48%" /> -->
 
-</div> -->
+</div>
 
 <!-- Contact Section -->
 <div align="center">
@@ -241,7 +241,7 @@ flowchart LR
   
 ## 💖 **Support This Project**
 
-<img src="https://media.giphy.com/media/3o6Zt6KHxJXXi0E5cS/giphy.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 **If this repository helped you, please consider:**
 

@@ -40,7 +40,7 @@
   
 ```diff
 @@           🎯 Your One-Stop Solution for VIT Exam Preparation           @@
-+ 📚 Comprehensive Collection of more than 1200 Previous Year Question Papers
++ 📚 Comprehensive Collection of more than 1600 Previous Year Question Papers
 + 🎓 Organized by Subject and Exam Type
 + 🤝 Community-Driven and Open Source
 + 🆓 100% Free Access for All Students
@@ -202,7 +202,7 @@ flowchart LR
 
 </details>
 
-<!-- Stats Section -->
+<!-- Stats Section 
 <div align="center">
   
 ## 📊 **Repository Stats**
@@ -210,7 +210,7 @@ flowchart LR
 <img src="https://github-readme-stats.vercel.app/api?username=puneet-chandna&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneet-chandna&theme=radical" width="48%" />
 
-</div>
+</div> -->
 
 <!-- Contact Section -->
 <div align="center">
@@ -222,6 +222,9 @@ flowchart LR
 <p align="center">
   <a href="mailto:puneet.chandna2022@vitstudent.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/puneet-chandna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/puneet_chandna_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -266,17 +269,17 @@ flowchart LR
     <td align="center">
       <h3>📈</h3>
       <b>Papers Added</b><br>
-      1220+
+      1600+
     </td>
     <td align="center">
       <h3>📚</h3>
       <b>Subjects Covered</b><br>
-      140+
+      ~150
     </td>
     <td align="center">
       <h3>🎓</h3>
       <b>Students Helped</b><br>
-      500+
+      1500+
     </td>
   </tr>
 </table>

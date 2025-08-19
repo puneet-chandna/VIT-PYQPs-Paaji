@@ -40,7 +40,7 @@
   
 ```diff
 @@           🎯 Your One-Stop Solution for VIT Exam Preparation           @@
-+ 📚 Comprehensive Collection of more than 1600 Previous Year Question Papers
++ 📚 Comprehensive Collection of more than 1800 Previous Year Question Papers
 + 🎓 Organized by Subject and Exam Type
 + 🤝 Community-Driven and Open Source
 + 🆓 100% Free Access for All Students
@@ -269,12 +269,12 @@ flowchart LR
     <td align="center">
       <h3>📈</h3>
       <b>Papers Added</b><br>
-      1600+
+      1800+
     </td>
     <td align="center">
       <h3>📚</h3>
       <b>Subjects Covered</b><br>
-      ~150
+      ~185
     </td>
     <td align="center">
       <h3>🎓</h3>

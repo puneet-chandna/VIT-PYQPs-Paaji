@@ -279,7 +279,7 @@ flowchart LR
     <td align="center">
       <h3>🎓</h3>
       <b>Students Helped</b><br>
-      2000+
+      3000+
     </td>
   </tr>
 </table>

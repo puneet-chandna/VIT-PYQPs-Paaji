@@ -304,4 +304,13 @@ flowchart LR
 </div>
 
 
+<div align="center">
+  <!-- Repo Visitor Counter Badge -->
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=puneet-chandna&repo=VIT-PYQPs-Paaji&style=flat-square" alt="Repo Views"/>
+  <br>
+  <sub>Repository visit counter (auto-updates, persistent)</sub>
+</div>
+
+
 

@@ -303,14 +303,15 @@ flowchart LR
 
 </div>
 
-
+ ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpuneet-chandna%2FyVIT-PYQPs-Paaji&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 <div align="center">
   <!-- Repo Visitor Counter Badge -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=puneet-chandna&repo=VIT-PYQPs-Paaji&style=flat-square" alt="Repo Views"/>
   <br>
-  <sub>Repository visit counter (auto-updates, persistent)</sub>
+
 </div>
+
 
 
 

@@ -24,6 +24,12 @@
   <img src="https://img.shields.io/github/contributors/puneet-chandna/VIT-PYQPs-Paaji?style=for-the-badge&logo=github&color=purple&logoColor=white&labelColor=101010" alt="Contributors"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/puneet-chandna/VIT-PYQPs-Paaji/tree/main/all%20papers">
+    <img src="https://img.shields.io/badge/%F0%9F%93%9A-Browse_All_Papers-36BCF7?style=for-the-badge" alt="Browse all papers"/>
+  </a>
+</p>
+
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
